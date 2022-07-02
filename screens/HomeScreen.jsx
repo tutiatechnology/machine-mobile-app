@@ -20,7 +20,7 @@ export default function HomeScreen() {
       year: 2022,
     },
     {
-      image: require("../assets/car1.jpeg"),
+      image: require("../assets/car1.png"),
       name: "Toyota",
       rent: 1500,
       year: 2020,
@@ -45,7 +45,7 @@ export default function HomeScreen() {
         <Avatar
           rounded={true}
           size={"large"}
-          source={require("../assets/man.jpg")}
+          source={require("../assets/man.png")}
           containerStyle={{ elevation: 2 }}
         />
         <Text style={styles.welcomeText}>

@@ -88,7 +88,7 @@ export default function RegisterScreen() {
   );
   return (
     <ImageBackground
-      source={require("../assets/fer.jpg")}
+      source={require("../assets/fer.png")}
       resizeMode="cover"
       style={{
         width: "100%",

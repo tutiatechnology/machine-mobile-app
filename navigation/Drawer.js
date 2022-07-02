@@ -20,7 +20,7 @@ function DrawerNavigator(props) {
             <Avatar
               size={225}
               rounded={true}
-              source={require("../assets/fer.jpg")}
+              source={require("../assets/fer.png")}
             />
             <Pressable
               style={{
